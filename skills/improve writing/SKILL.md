@@ -1,3 +1,7 @@
+---
+name: Improve Writing
+description: Skill for improving the writing quality of provided content with keep the original meaning.
+---
 Revise the provided content to improve its overall writing quality.
 
 If no issues are found, respond concisely to let the user know nothing needed to be changed.
